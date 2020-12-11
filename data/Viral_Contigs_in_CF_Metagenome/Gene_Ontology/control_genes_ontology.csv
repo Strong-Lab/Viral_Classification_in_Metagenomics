@@ -1,0 +1,152 @@
+,Name,Ontology,Sublevel,0
+GO:0000049,tRNA binding,molecular_function,RNA binding,2
+GO:0000166,nucleotide binding,molecular_function,nucleoside phosphate binding,5
+GO:0000287,magnesium ion binding,molecular_function,metal ion binding,2
+GO:0000725,recombinational repair,biological_process,DNA recombination,1
+GO:0001108,bacterial-type RNA polymerase holo enzyme binding,molecular_function,basal transcription machinery binding,1
+GO:0002938,tRNA guanine ribose methylation,biological_process,tRNA nucleoside ribose methylation,3
+GO:0002949,tRNA threonylcarbamoyladenosine modification,biological_process,tRNA threonylcarbamoyladenosine metabolic process,3
+GO:0003677,DNA binding,molecular_function,nucleic acid binding,14
+GO:0003697,single-stranded DNA binding,molecular_function,DNA binding,5
+GO:0003700,DNA-binding transcription factor activity,molecular_function,transcription regulator activity,4
+GO:0003723,RNA binding,molecular_function,nucleic acid binding,4
+GO:0003824,catalytic activity,molecular_function,molecular_function,2
+GO:0003849,3-deoxy-7-phosphoheptulonate synthase activity,molecular_function,"transferase activity, transferring alkyl or aryl (other than methyl) groups",4
+GO:0003883,CTP synthase activity,molecular_function,"ligase activity, forming carbon-nitrogen bonds",7
+GO:0003924,GTPase activity,molecular_function,nucleoside-triphosphatase activity,3
+GO:0003995,acyl-CoA dehydrogenase activity,molecular_function,"oxidoreductase activity, acting on the CH-CH group of donors",1
+GO:0004373,glycogen (starch) synthase activity,molecular_function,UDP-glucosyltransferase activity,1
+GO:0004518,nuclease activity,molecular_function,"hydrolase activity, acting on ester bonds",1
+GO:0004519,endonuclease activity,molecular_function,nuclease activity,1
+GO:0004521,endoribonuclease activity,molecular_function,ribonuclease activity,2
+GO:0004672,protein kinase activity,molecular_function,"catalytic activity, acting on a protein",1
+GO:0004797,thymidine kinase activity,molecular_function,deoxynucleoside kinase activity,5
+GO:0005351,carbohydrate:proton symporter activity,molecular_function,solute:proton symporter activity,1
+GO:0005515,protein binding,molecular_function,binding,44
+GO:0005524,ATP binding,molecular_function,purine ribonucleoside triphosphate binding,7
+GO:0005525,GTP binding,molecular_function,purine ribonucleoside triphosphate binding,3
+GO:0005737,cytoplasm,cellular_component,cellular anatomical entity,22
+GO:0005829,cytosol,cellular_component,cellular anatomical entity,17
+GO:0005886,plasma membrane,cellular_component,membrane,18
+GO:0005887,integral component of plasma membrane,cellular_component,intrinsic component of plasma membrane,4
+GO:0005978,glycogen biosynthetic process,biological_process,glucan biosynthetic process,5
+GO:0006221,pyrimidine nucleotide biosynthetic process,biological_process,pyrimidine-containing compound biosynthetic process,3
+GO:0006241,CTP biosynthetic process,biological_process,CTP metabolic process,5
+GO:0006259,DNA metabolic process,biological_process,nucleic acid metabolic process,1
+GO:0006260,DNA replication,biological_process,cellular macromolecule biosynthetic process,5
+GO:0006269,"DNA replication, synthesis of RNA primer",biological_process,RNA biosynthetic process,1
+GO:0006271,DNA strand elongation involved in DNA replication,biological_process,DNA strand elongation,2
+GO:0006276,plasmid maintenance,biological_process,cellular process,3
+GO:0006281,DNA repair,biological_process,cellular response to DNA damage stimulus,2
+GO:0006298,mismatch repair,biological_process,DNA repair,1
+GO:0006310,DNA recombination,biological_process,DNA metabolic process,8
+GO:0006313,"transposition, DNA-mediated",biological_process,transposition,2
+GO:0006354,"DNA-templated transcription, elongation",biological_process,RNA biosynthetic process,2
+GO:0006355,"regulation of transcription, DNA-templated",biological_process,regulation of cellular macromolecule biosynthetic process,3
+GO:0006364,rRNA processing,biological_process,ncRNA processing,1
+GO:0006396,RNA processing,biological_process,RNA metabolic process,1
+GO:0006402,mRNA catabolic process,biological_process,mRNA metabolic process,2
+GO:0006417,regulation of translation,biological_process,regulation of cellular macromolecule biosynthetic process,1
+GO:0006524,alanine catabolic process,biological_process,pyruvate family amino acid catabolic process,1
+GO:0006541,glutamine metabolic process,biological_process,glutamine family amino acid metabolic process,1
+GO:0006790,sulfur compound metabolic process,biological_process,cellular metabolic process,1
+GO:0006974,cellular response to DNA damage stimulus,biological_process,cellular response to stress,3
+GO:0006979,response to oxidative stress,biological_process,response to stress,2
+GO:0007059,chromosome segregation,biological_process,cellular process,5
+GO:0008033,tRNA processing,biological_process,ncRNA processing,2
+GO:0008047,enzyme activator activity,molecular_function,enzyme regulator activity,2
+GO:0008152,metabolic process,biological_process,biological_process,1
+GO:0008168,methyltransferase activity,molecular_function,"transferase activity, transferring one-carbon groups",2
+GO:0008173,RNA methyltransferase activity,molecular_function,"catalytic activity, acting on RNA",1
+GO:0008270,zinc ion binding,molecular_function,transition metal ion binding,1
+GO:0008643,carbohydrate transport,biological_process,organic substance transport,1
+GO:0008652,cellular amino acid biosynthetic process,biological_process,organonitrogen compound biosynthetic process,1
+GO:0008982,protein-N(PI)-phosphohistidine-sugar phosphotransferase activity,molecular_function,active transmembrane transporter activity,1
+GO:0009009,site-specific recombinase activity,molecular_function,recombinase activity,5
+GO:0009011,starch synthase activity,molecular_function,glucosyltransferase activity,3
+GO:0009020,tRNA (guanosine-2'-O-)-methyltransferase activity,molecular_function,tRNA 2'-O-methyltransferase activity,6
+GO:0009037,tyrosine-based site-specific recombinase activity,molecular_function,site-specific recombinase activity,4
+GO:0009058,biosynthetic process,biological_process,metabolic process,1
+GO:0009073,aromatic amino acid family biosynthetic process,biological_process,organic cyclic compound biosynthetic process,4
+GO:0009295,nucleoid,cellular_component,cellular anatomical entity,1
+GO:0009314,response to radiation,biological_process,response to abiotic stimulus,1
+GO:0009372,quorum sensing,biological_process,detection of cell density,1
+GO:0009401,phosphoenolpyruvate-dependent sugar phosphotransferase system,biological_process,carbohydrate transport,5
+GO:0009409,response to cold,biological_process,response to temperature stimulus,2
+GO:0009423,chorismate biosynthetic process,biological_process,chorismate metabolic process,1
+GO:0009432,SOS response,biological_process,cellular response to extracellular stimulus,1
+GO:0015074,DNA integration,biological_process,DNA metabolic process,4
+GO:0015755,fructose transmembrane transport,biological_process,hexose transmembrane transport,1
+GO:0016020,membrane,cellular_component,cellular anatomical entity,5
+GO:0016021,integral component of membrane,cellular_component,intrinsic component of membrane,5
+GO:0016075,rRNA catabolic process,biological_process,ncRNA catabolic process,2
+GO:0016226,iron-sulfur cluster assembly,biological_process,metallo-sulfur cluster assembly,1
+GO:0016301,kinase activity,molecular_function,"transferase activity, transferring phosphorus-containing groups",2
+GO:0016310,phosphorylation,biological_process,phosphate-containing compound metabolic process,2
+GO:0016491,oxidoreductase activity,molecular_function,catalytic activity,1
+GO:0016597,amino acid binding,molecular_function,carboxylic acid binding,1
+GO:0016627,"oxidoreductase activity, acting on the CH-CH group of donors",molecular_function,oxidoreductase activity,1
+GO:0016740,transferase activity,molecular_function,catalytic activity,5
+GO:0016757,"transferase activity, transferring glycosyl groups",molecular_function,transferase activity,1
+GO:0016787,hydrolase activity,molecular_function,catalytic activity,2
+GO:0016874,ligase activity,molecular_function,catalytic activity,1
+GO:0016887,ATPase activity,molecular_function,nucleoside-triphosphatase activity,1
+GO:0019003,GDP binding,molecular_function,anion binding,1
+GO:0019843,rRNA binding,molecular_function,RNA binding,1
+GO:0019856,pyrimidine nucleobase biosynthetic process,biological_process,pyrimidine-containing compound biosynthetic process,1
+GO:0022877,protein-N(PI)-phosphohistidine-fructose phosphotransferase system transporter activity,molecular_function,protein-N(PI)-phosphohistidine-sugar phosphotransferase activity,1
+GO:0030308,negative regulation of cell growth,biological_process,negative regulation of cellular process,1
+GO:0030488,tRNA methylation,biological_process,tRNA modification,2
+GO:0030490,maturation of SSU-rRNA,biological_process,rRNA processing,2
+GO:0031162,sulfur incorporation into metallo-sulfur cluster,biological_process,sulfur compound metabolic process,1
+GO:0032259,methylation,biological_process,metabolic process,1
+GO:0032445,fructose import,biological_process,fructose transmembrane transport,1
+GO:0032784,"regulation of DNA-templated transcription, elongation",biological_process,"regulation of transcription, DNA-templated",3
+GO:0032991,protein-containing complex,cellular_component,cellular_component,1
+GO:0032993,protein-DNA complex,cellular_component,protein-containing complex,1
+GO:0033201,"alpha-1,4-glucan synthase activity",molecular_function,"transferase activity, transferring hexosyl groups",1
+GO:0034219,carbohydrate transmembrane transport,biological_process,transmembrane transport,3
+GO:0036198,dTMP salvage,biological_process,pyrimidine deoxyribonucleotide salvage,1
+GO:0042150,plasmid recombination,biological_process,DNA recombination,1
+GO:0042254,ribosome biogenesis,biological_process,ribonucleoprotein complex biogenesis,3
+GO:0042274,ribosomal small subunit biogenesis,biological_process,ribonucleoprotein complex biogenesis,3
+GO:0042802,identical protein binding,molecular_function,protein binding,9
+GO:0042953,lipoprotein transport,biological_process,lipoprotein localization,1
+GO:0043024,ribosomal small subunit binding,molecular_function,ribonucleoprotein complex binding,2
+GO:0043085,positive regulation of catalytic activity,biological_process,regulation of catalytic activity,2
+GO:0043200,response to amino acid,biological_process,response to oxygen-containing compound,2
+GO:0043201,response to leucine,biological_process,response to amino acid,2
+GO:0043531,ADP binding,molecular_function,anion binding,1
+GO:0043565,sequence-specific DNA binding,molecular_function,DNA binding,6
+GO:0044210,'de novo' CTP biosynthetic process,biological_process,CTP biosynthetic process,1
+GO:0044874,lipoprotein localization to outer membrane,biological_process,lipoprotein localization to membrane,4
+GO:0044877,protein-containing complex binding,molecular_function,binding,1
+GO:0045892,"negative regulation of transcription, DNA-templated",biological_process,negative regulation of cellular macromolecule biosynthetic process,3
+GO:0045893,"positive regulation of transcription, DNA-templated",biological_process,positive regulation of nucleic acid-templated transcription,3
+GO:0046104,thymidine metabolic process,biological_process,pyrimidine deoxyribonucleoside metabolic process,1
+GO:0046777,protein autophosphorylation,biological_process,protein phosphorylation,1
+GO:0046872,metal ion binding,molecular_function,cation binding,4
+GO:0048476,Holliday junction resolvase complex,cellular_component,endodeoxyribonuclease complex,5
+GO:0050660,flavin adenine dinucleotide binding,molecular_function,anion binding,1
+GO:0051096,positive regulation of helicase activity,biological_process,regulation of helicase activity,1
+GO:0051289,protein homotetramerization,biological_process,protein tetramerization,1
+GO:0051291,protein heterooligomerization,biological_process,protein complex oligomerization,1
+GO:0051301,cell division,biological_process,cellular process,3
+GO:0051347,positive regulation of transferase activity,biological_process,regulation of transferase activity,1
+GO:0051607,defense response to virus,biological_process,defense response to other organism,1
+GO:0055114,oxidation-reduction process,biological_process,metabolic process,2
+GO:0070063,RNA polymerase binding,molecular_function,enzyme binding,1
+GO:0071139,resolution of recombination intermediates,biological_process,DNA metabolic process,2
+GO:0071271,1-butanol biosynthetic process,biological_process,1-butanol metabolic process,1
+GO:0071897,DNA biosynthetic process,biological_process,nucleobase-containing compound biosynthetic process,1
+GO:0072659,protein localization to plasma membrane,biological_process,protein localization to cell periphery,1
+GO:0090305,nucleic acid phosphodiester bond hydrolysis,biological_process,nucleic acid metabolic process,2
+GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic",biological_process,RNA phosphodiester bond hydrolysis,1
+GO:0090563,protein-phosphocysteine-sugar phosphotransferase activity,molecular_function,active transmembrane transporter activity,1
+GO:0090582,protein-phosphocysteine-D-fructose-phosphotransferase system transporter activity,molecular_function,protein-phosphocysteine-sugar phosphotransferase activity,1
+GO:0097163,sulfur carrier activity,molecular_function,molecular carrier activity,2
+GO:0097216,guanosine tetraphosphate binding,molecular_function,anion binding,1
+GO:0098797,plasma membrane protein complex,cellular_component,membrane protein complex,2
+GO:0140306,lipoprotein releasing activity,molecular_function,protein transporter activity,2
+GO:1902600,proton transmembrane transport,biological_process,inorganic cation transmembrane transport,1
+GO:1990077,primosome complex,cellular_component,protein-DNA complex,1

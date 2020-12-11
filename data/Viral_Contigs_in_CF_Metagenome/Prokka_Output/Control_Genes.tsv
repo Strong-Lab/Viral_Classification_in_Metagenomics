@@ -1,0 +1,579 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+HABOFDGG_00001	CDS	402				hypothetical protein
+HABOFDGG_00002	CDS	204				hypothetical protein
+HABOFDGG_00003	CDS	168				hypothetical protein
+HABOFDGG_00004	CDS	606				hypothetical protein
+HABOFDGG_00005	CDS	192				hypothetical protein
+HABOFDGG_00006	CDS	276				hypothetical protein
+HABOFDGG_00007	CDS	231				hypothetical protein
+HABOFDGG_00008	CDS	180				hypothetical protein
+HABOFDGG_00009	CDS	180				hypothetical protein
+HABOFDGG_00010	CDS	327				hypothetical protein
+HABOFDGG_00011	CDS	120				hypothetical protein
+HABOFDGG_00012	CDS	1008				autolysin [Streptococcus pneumoniae TIGR4]
+HABOFDGG_00013	CDS	1623				hypothetical protein
+HABOFDGG_00014	CDS	264				hypothetical protein
+HABOFDGG_00015	CDS	411				hypothetical protein
+HABOFDGG_00016	CDS	654				hypothetical protein
+HABOFDGG_00017	CDS	201				hypothetical protein
+HABOFDGG_00018	CDS	3864				hypothetical protein
+HABOFDGG_00019	CDS	723				hypothetical protein
+HABOFDGG_00020	CDS	3021	smc			Chromosome partition protein Smc
+HABOFDGG_00021	CDS	417				hypothetical protein
+HABOFDGG_00022	CDS	573				hypothetical protein
+HABOFDGG_00023	CDS	324				hypothetical protein
+HABOFDGG_00024	CDS	348				hypothetical protein
+HABOFDGG_00025	CDS	300				hypothetical protein
+HABOFDGG_00026	CDS	282				hypothetical protein
+HABOFDGG_00027	CDS	243				hypothetical protein
+HABOFDGG_00028	CDS	1167				hypothetical protein
+HABOFDGG_00029	CDS	591				hypothetical protein
+HABOFDGG_00030	CDS	1203				hypothetical protein
+HABOFDGG_00031	CDS	1731				hypothetical protein
+HABOFDGG_00032	CDS	342				hypothetical protein
+HABOFDGG_00033	CDS	327				hypothetical protein
+HABOFDGG_00034	CDS	441				hypothetical protein
+HABOFDGG_00035	CDS	90				hypothetical protein
+HABOFDGG_00036	CDS	543	xerC			Tyrosine recombinase XerC
+HABOFDGG_00037	CDS	402				hypothetical protein
+HABOFDGG_00038	CDS	339				hypothetical protein
+HABOFDGG_00039	CDS	279				hypothetical protein
+HABOFDGG_00040	CDS	144				hypothetical protein
+HABOFDGG_00041	CDS	417				hypothetical protein
+HABOFDGG_00042	CDS	495				hypothetical protein
+HABOFDGG_00043	CDS	402				hypothetical protein
+HABOFDGG_00044	CDS	123				hypothetical protein
+HABOFDGG_00045	CDS	204				hypothetical protein
+HABOFDGG_00046	CDS	243				hypothetical protein
+HABOFDGG_00047	CDS	417				hypothetical protein
+HABOFDGG_00048	CDS	321				hypothetical protein
+HABOFDGG_00049	CDS	477				hypothetical protein
+HABOFDGG_00050	CDS	339				hypothetical protein
+HABOFDGG_00051	CDS	351				hypothetical protein
+HABOFDGG_00052	CDS	255				hypothetical protein
+HABOFDGG_00053	CDS	387				hypothetical protein
+HABOFDGG_00054	CDS	1521			COG1388	Cell wall protein
+HABOFDGG_00055	CDS	402				hypothetical protein
+HABOFDGG_00056	CDS	300				hypothetical protein
+HABOFDGG_00057	CDS	435				hypothetical protein
+HABOFDGG_00058	CDS	1290				hypothetical protein
+HABOFDGG_00059	CDS	1470				hypothetical protein
+HABOFDGG_00060	CDS	1722				hypothetical protein
+HABOFDGG_00061	CDS	336				hypothetical protein
+HABOFDGG_00062	CDS	309				hypothetical protein
+HABOFDGG_00063	CDS	120				hypothetical protein
+HABOFDGG_00064	CDS	168				hypothetical protein
+HABOFDGG_00065	CDS	558				hypothetical protein
+HABOFDGG_00066	CDS	897				hypothetical protein
+HABOFDGG_00067	CDS	207				hypothetical protein
+HABOFDGG_00068	CDS	348				hypothetical protein
+HABOFDGG_00069	CDS	306				hypothetical protein
+HABOFDGG_00070	CDS	351				hypothetical protein
+HABOFDGG_00071	CDS	384				hypothetical protein
+HABOFDGG_00072	CDS	546				hypothetical protein
+HABOFDGG_00073	CDS	342				hypothetical protein
+HABOFDGG_00074	CDS	309				hypothetical protein
+HABOFDGG_00075	CDS	3033				hypothetical protein
+HABOFDGG_00076	CDS	792				hypothetical protein
+HABOFDGG_00077	CDS	3273				hypothetical protein
+HABOFDGG_00078	CDS	222				hypothetical protein
+HABOFDGG_00079	CDS	624				hypothetical protein
+HABOFDGG_00080	CDS	456				hypothetical protein
+HABOFDGG_00081	CDS	270				hypothetical protein
+HABOFDGG_00082	CDS	1623				hypothetical protein
+HABOFDGG_00083	CDS	882				hypothetical protein
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GDHJLPLC_00001	CDS	261				hypothetical protein
+GDHJLPLC_00002	CDS	129				hypothetical protein
+GDHJLPLC_00003	CDS	228				hypothetical protein
+GDHJLPLC_00004	CDS	111				hypothetical protein
+GDHJLPLC_00005	CDS	681				hypothetical protein
+GDHJLPLC_00006	CDS	156				hypothetical protein
+GDHJLPLC_00007	CDS	1401				hypothetical protein
+GDHJLPLC_00008	CDS	828				hypothetical protein
+GDHJLPLC_00009	CDS	201				hypothetical protein
+GDHJLPLC_00010	CDS	195				hypothetical protein
+GDHJLPLC_00011	CDS	582				hypothetical protein
+GDHJLPLC_00012	CDS	594				hypothetical protein
+GDHJLPLC_00013	CDS	276				hypothetical protein
+GDHJLPLC_00014	CDS	552				hypothetical protein
+GDHJLPLC_00015	CDS	489				hypothetical protein
+GDHJLPLC_00016	CDS	417				hypothetical protein
+GDHJLPLC_00017	CDS	279				hypothetical protein
+GDHJLPLC_00018	CDS	168				hypothetical protein
+GDHJLPLC_00019	CDS	477				hypothetical protein
+GDHJLPLC_00020	CDS	381				hypothetical protein
+GDHJLPLC_00021	CDS	543	xerC			Tyrosine recombinase XerC
+GDHJLPLC_00022	CDS	1380	yqiK		COG2268	Inner membrane protein YqiK
+GDHJLPLC_00023	CDS	213				hypothetical protein
+GDHJLPLC_00024	CDS	318				hypothetical protein
+GDHJLPLC_00025	CDS	123				hypothetical protein
+GDHJLPLC_00026	CDS	288				hypothetical protein
+GDHJLPLC_00027	CDS	285				hypothetical protein
+GDHJLPLC_00028	CDS	261	ssb		COG0629	Single-stranded DNA-binding protein
+GDHJLPLC_00029	CDS	417				hypothetical protein
+GDHJLPLC_00030	CDS	186				hypothetical protein
+GDHJLPLC_00031	CDS	636				hypothetical protein
+GDHJLPLC_00032	CDS	1332				hypothetical protein
+GDHJLPLC_00033	CDS	240				hypothetical protein
+GDHJLPLC_00034	CDS	258				hypothetical protein
+GDHJLPLC_00035	CDS	450				hypothetical protein
+GDHJLPLC_00036	CDS	447				hypothetical protein
+GDHJLPLC_00037	CDS	195				hypothetical protein
+GDHJLPLC_00038	CDS	615				hypothetical protein
+GDHJLPLC_00039	CDS	408				hypothetical protein
+GDHJLPLC_00040	CDS	252				hypothetical protein
+GDHJLPLC_00041	CDS	795				hypothetical protein
+GDHJLPLC_00042	CDS	138				hypothetical protein
+GDHJLPLC_00043	CDS	765				hypothetical protein
+GDHJLPLC_00044	CDS	231				hypothetical protein
+GDHJLPLC_00045	CDS	951				hypothetical protein
+GDHJLPLC_00046	CDS	264				hypothetical protein
+GDHJLPLC_00047	CDS	351				hypothetical protein
+GDHJLPLC_00048	CDS	486				hypothetical protein
+GDHJLPLC_00049	CDS	975				hypothetical protein
+GDHJLPLC_00050	CDS	798				hypothetical protein
+GDHJLPLC_00051	CDS	510				hypothetical protein
+GDHJLPLC_00052	CDS	822				hypothetical protein
+GDHJLPLC_00053	CDS	1350				hypothetical protein
+GDHJLPLC_00054	CDS	159				hypothetical protein
+GDHJLPLC_00055	CDS	984				hypothetical protein
+GDHJLPLC_00056	CDS	459				hypothetical protein
+GDHJLPLC_00057	CDS	474				hypothetical protein
+GDHJLPLC_00058	CDS	219				hypothetical protein
+GDHJLPLC_00059	CDS	204				hypothetical protein
+GDHJLPLC_00060	CDS	252				hypothetical protein
+GDHJLPLC_00061	CDS	300				hypothetical protein
+GDHJLPLC_00062	CDS	342				hypothetical protein
+GDHJLPLC_00063	CDS	504				hypothetical protein
+GDHJLPLC_00064	CDS	426				hypothetical protein
+GDHJLPLC_00065	CDS	2115				hypothetical protein
+GDHJLPLC_00066	CDS	1053	ydiO	2.1.1.37	COG0270	putative BsuMI modification methylase subunit YdiO
+GDHJLPLC_00067	CDS	183				autolysin [Streptococcus pneumoniae TIGR4]
+GDHJLPLC_00068	CDS	216				hypothetical protein
+GDHJLPLC_00069	CDS	258				hypothetical protein
+GDHJLPLC_00070	CDS	702				hypothetical protein
+GDHJLPLC_00071	CDS	321				hypothetical protein
+GDHJLPLC_00072	CDS	459				hypothetical protein
+GDHJLPLC_00073	CDS	462				hypothetical protein
+GDHJLPLC_00074	CDS	792				hypothetical protein
+GDHJLPLC_00075	CDS	516				hypothetical protein
+GDHJLPLC_00076	CDS	333				hypothetical protein
+GDHJLPLC_00077	CDS	516				hypothetical protein
+GDHJLPLC_00078	CDS	477				hypothetical protein
+GDHJLPLC_00079	CDS	291				hypothetical protein
+GDHJLPLC_00080	CDS	225				hypothetical protein
+GDHJLPLC_00081	CDS	261				hypothetical protein
+GDHJLPLC_00082	CDS	99				hypothetical protein
+GDHJLPLC_00083	CDS	138				hypothetical protein
+GDHJLPLC_00084	CDS	126				hypothetical protein
+GDHJLPLC_00085	CDS	234				hypothetical protein
+GDHJLPLC_00086	CDS	234				hypothetical protein
+GDHJLPLC_00087	CDS	804				hypothetical protein
+GDHJLPLC_00088	CDS	354	mazF	3.1.27.-	COG2337	Endoribonuclease toxin MazF
+GDHJLPLC_00089	CDS	216				hypothetical protein
+GDHJLPLC_00090	CDS	261				hypothetical protein
+GDHJLPLC_00091	CDS	1443	spk1	2.7.11.1		Serine/threonine-protein kinase PK-1
+GDHJLPLC_00092	CDS	873	aroH	2.5.1.54	COG3200	Phospho-2-dehydro-3-deoxyheptonate aldolase
+GDHJLPLC_00093	CDS	384				hypothetical protein
+GDHJLPLC_00094	CDS	210				hypothetical protein
+GDHJLPLC_00095	CDS	273				hypothetical protein
+GDHJLPLC_00096	CDS	249				hypothetical protein
+GDHJLPLC_00097	CDS	756				hypothetical protein
+GDHJLPLC_00098	CDS	624				hypothetical protein
+GDHJLPLC_00099	CDS	786				hypothetical protein
+GDHJLPLC_00100	CDS	423				hypothetical protein
+GDHJLPLC_00101	CDS	1470				hypothetical protein
+GDHJLPLC_00102	CDS	207				hypothetical protein
+GDHJLPLC_00103	CDS	1203				hypothetical protein
+GDHJLPLC_00104	CDS	579				hypothetical protein
+GDHJLPLC_00105	CDS	693				hypothetical protein
+GDHJLPLC_00106	CDS	318				hypothetical protein
+GDHJLPLC_00107	CDS	207				hypothetical protein
+GDHJLPLC_00108	CDS	180				hypothetical protein
+GDHJLPLC_00109	CDS	246				autolysin [Streptococcus pneumoniae TIGR4]
+GDHJLPLC_00110	CDS	651	aniA	1.7.2.1	COG2132	Copper-containing nitrite reductase
+GDHJLPLC_00111	CDS	912				hypothetical protein
+GDHJLPLC_00112	CDS	1062	rsgA	3.6.1.-		Small ribosomal subunit biogenesis GTPase RsgA
+GDHJLPLC_00113	CDS	1419				3-phosphoshikimate 1-carboxyvinyltransferase [Salmonella enterica subsp. enterica serovar Enteritidis str.]
+GDHJLPLC_00114	CDS	618				hypothetical protein
+GDHJLPLC_00115	CDS	627				RNA polymerase sigma factor RpoE [Mycobacterium avium subsp. paratuberculosis K-10]
+GDHJLPLC_00116	CDS	387				hypothetical protein
+GDHJLPLC_00117	CDS	270				hypothetical protein
+GDHJLPLC_00118	CDS	282				hypothetical protein
+GDHJLPLC_00119	CDS	300				hypothetical protein
+GDHJLPLC_00120	CDS	189				hypothetical protein
+GDHJLPLC_00121	CDS	222				hypothetical protein
+GDHJLPLC_00122	CDS	633				hypothetical protein
+GDHJLPLC_00123	CDS	327				hypothetical protein
+GDHJLPLC_00124	CDS	504				hypothetical protein
+GDHJLPLC_00125	CDS	363				hypothetical protein
+GDHJLPLC_00126	CDS	393				hypothetical protein
+GDHJLPLC_00127	CDS	717				hypothetical protein
+GDHJLPLC_00128	CDS	1365				hypothetical protein
+GDHJLPLC_00129	CDS	549				hypothetical protein
+GDHJLPLC_00130	CDS	1152				hypothetical protein
+GDHJLPLC_00131	CDS	690				hypothetical protein
+GDHJLPLC_00132	CDS	990				hypothetical protein
+GDHJLPLC_00133	CDS	645				hypothetical protein
+GDHJLPLC_00134	CDS	708				hypothetical protein
+GDHJLPLC_00135	CDS	2421				hypothetical protein
+GDHJLPLC_00136	CDS	357				hypothetical protein
+GDHJLPLC_00137	CDS	1416				hypothetical protein
+GDHJLPLC_00138	CDS	1281				hypothetical protein
+GDHJLPLC_00139	CDS	717				hypothetical protein
+GDHJLPLC_00140	CDS	135				hypothetical protein
+GDHJLPLC_00141	CDS	423				hypothetical protein
+GDHJLPLC_00142	CDS	390				hypothetical protein
+GDHJLPLC_00143	CDS	312				hypothetical protein
+GDHJLPLC_00144	CDS	171				hypothetical protein
+GDHJLPLC_00145	CDS	417				hypothetical protein
+GDHJLPLC_00146	CDS	492				hypothetical protein
+GDHJLPLC_00147	CDS	357				hypothetical protein
+GDHJLPLC_00148	CDS	396				hypothetical protein
+GDHJLPLC_00149	CDS	993				hypothetical protein
+GDHJLPLC_00150	CDS	405	yqbN			putative protein YqbN
+GDHJLPLC_00151	CDS	465	xkdM			Phage-like element PBSX protein XkdM
+GDHJLPLC_00152	CDS	255				hypothetical protein
+GDHJLPLC_00153	CDS	1269				hypothetical protein
+GDHJLPLC_00154	CDS	345				hypothetical protein
+GDHJLPLC_00155	CDS	429				hypothetical protein
+GDHJLPLC_00156	CDS	1446	glgA	2.4.1.21	COG0297	Glycogen synthase
+GDHJLPLC_00157	CDS	372				DNA repair protein RecN [Neisseria meningitidis MC58]
+GDHJLPLC_00158	CDS	207				hypothetical protein
+GDHJLPLC_00159	CDS	141				hypothetical protein
+GDHJLPLC_00160	CDS	357				hypothetical protein
+GDHJLPLC_00161	CDS	168				hypothetical protein
+GDHJLPLC_00162	CDS	669				hypothetical protein
+GDHJLPLC_00163	CDS	228				hypothetical protein
+GDHJLPLC_00164	CDS	288				hypothetical protein
+GDHJLPLC_00165	CDS	492				hypothetical protein
+GDHJLPLC_00166	CDS	267				hypothetical protein
+GDHJLPLC_00167	CDS	381				hypothetical protein
+GDHJLPLC_00168	CDS	324				hypothetical protein
+GDHJLPLC_00169	CDS	105				hypothetical protein
+GDHJLPLC_00170	CDS	321				hypothetical protein
+GDHJLPLC_00171	CDS	726				hypothetical protein
+GDHJLPLC_00172	CDS	213				hypothetical protein
+GDHJLPLC_00173	CDS	621				hypothetical protein
+GDHJLPLC_00174	CDS	417				hypothetical protein
+GDHJLPLC_00175	CDS	336				hypothetical protein
+GDHJLPLC_00176	CDS	957				autolysin [Streptococcus pneumoniae TIGR4]
+GDHJLPLC_00177	CDS	1368				hypothetical protein
+GDHJLPLC_00178	CDS	693				hypothetical protein
+GDHJLPLC_00179	CDS	582				hypothetical protein
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+ACJPKCLI_00001	CDS	189				hypothetical protein
+ACJPKCLI_00002	CDS	1467				hypothetical protein
+ACJPKCLI_00003	CDS	1455				hypothetical protein
+ACJPKCLI_00004	CDS	144				hypothetical protein
+ACJPKCLI_00005	CDS	138				hypothetical protein
+ACJPKCLI_00006	CDS	255				hypothetical protein
+ACJPKCLI_00007	CDS	216				hypothetical protein
+ACJPKCLI_00008	CDS	174				hypothetical protein
+ACJPKCLI_00009	CDS	450				hypothetical protein
+ACJPKCLI_00010	CDS	936				hypothetical protein
+ACJPKCLI_00011	CDS	1062	rsgA	3.6.1.-		Small ribosomal subunit biogenesis GTPase RsgA
+ACJPKCLI_00012	CDS	1419				3-phosphoshikimate 1-carboxyvinyltransferase [Salmonella enterica subsp. enterica serovar Enteritidis str.]
+ACJPKCLI_00013	CDS	621				hypothetical protein
+ACJPKCLI_00014	CDS	627				RNA polymerase sigma factor RpoE [Mycobacterium avium subsp. paratuberculosis K-10]
+ACJPKCLI_00015	CDS	387				hypothetical protein
+ACJPKCLI_00016	CDS	816				hypothetical protein
+ACJPKCLI_00017	CDS	669				hypothetical protein
+ACJPKCLI_00018	CDS	810				hypothetical protein
+ACJPKCLI_00019	CDS	312	lrp			Leucine-rich protein
+ACJPKCLI_00020	CDS	489				endopeptidase Clp ATP-binding chain C [Listeria monocytogenes EGD-e]
+ACJPKCLI_00021	CDS	1533				hypothetical protein
+ACJPKCLI_00022	CDS	477	greA		COG0782	Transcription elongation factor GreA
+ACJPKCLI_00023	CDS	870	lacX			Protein LacX, plasmid
+ACJPKCLI_00024	CDS	174				hypothetical protein
+ACJPKCLI_00025	CDS	972				hypothetical protein
+ACJPKCLI_00026	CDS	300				hypothetical protein
+ACJPKCLI_00027	CDS	261				hypothetical protein
+ACJPKCLI_00028	CDS	177				hypothetical protein
+ACJPKCLI_00029	CDS	141				hypothetical protein
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+PHAPFCEE_00001	CDS	423				hypothetical protein
+PHAPFCEE_00002	CDS	330				hypothetical protein
+PHAPFCEE_00003	CDS	222				hypothetical protein
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FLEIJMII_00001	CDS	837				hypothetical protein
+FLEIJMII_00002	CDS	1182				hypothetical protein
+FLEIJMII_00003	CDS	813				hypothetical protein
+FLEIJMII_00004	CDS	225				hypothetical protein
+FLEIJMII_00005	CDS	249				hypothetical protein
+FLEIJMII_00006	CDS	396				hypothetical protein
+FLEIJMII_00007	CDS	507				hypothetical protein
+FLEIJMII_00008	CDS	1104	xerC_1			Tyrosine recombinase XerC
+FLEIJMII_00009	CDS	252				hypothetical protein
+FLEIJMII_00010	CDS	186				hypothetical protein
+FLEIJMII_00011	CDS	180				hypothetical protein
+FLEIJMII_00012	CDS	123				hypothetical protein
+FLEIJMII_00013	CDS	153	glgA	2.4.1.21		Glycogen synthase
+FLEIJMII_00014	CDS	258				hypothetical protein
+FLEIJMII_00015	CDS	726				hypothetical protein
+FLEIJMII_00016	CDS	321				hypothetical protein
+FLEIJMII_00017	CDS	486				hypothetical protein
+FLEIJMII_00018	CDS	438				hypothetical protein
+FLEIJMII_00019	CDS	153				hypothetical protein
+FLEIJMII_00020	CDS	678				hypothetical protein
+FLEIJMII_00021	CDS	387				hypothetical protein
+FLEIJMII_00022	CDS	489				hypothetical protein
+FLEIJMII_00023	CDS	450				hypothetical protein
+FLEIJMII_00024	CDS	276				hypothetical protein
+FLEIJMII_00025	CDS	594				hypothetical protein
+FLEIJMII_00026	CDS	1128				hypothetical protein
+FLEIJMII_00027	CDS	393				hypothetical protein
+FLEIJMII_00028	CDS	303				hypothetical protein
+FLEIJMII_00029	CDS	447				hypothetical protein
+FLEIJMII_00030	CDS	666				hypothetical protein
+FLEIJMII_00031	CDS	318				hypothetical protein
+FLEIJMII_00032	CDS	204				hypothetical protein
+FLEIJMII_00033	CDS	198				hypothetical protein
+FLEIJMII_00034	CDS	267				hypothetical protein
+FLEIJMII_00035	CDS	714				hypothetical protein
+FLEIJMII_00036	CDS	660				hypothetical protein
+FLEIJMII_00037	CDS	153				hypothetical protein
+FLEIJMII_00038	CDS	198				hypothetical protein
+FLEIJMII_00039	CDS	210				hypothetical protein
+FLEIJMII_00040	CDS	1017				hypothetical protein
+FLEIJMII_00041	CDS	231				hypothetical protein
+FLEIJMII_00042	CDS	2169				hypothetical protein
+FLEIJMII_00043	CDS	327				hypothetical protein
+FLEIJMII_00044	CDS	483				hypothetical protein
+FLEIJMII_00045	CDS	432				hypothetical protein
+FLEIJMII_00046	CDS	615				hypothetical protein
+FLEIJMII_00047	CDS	213				hypothetical protein
+FLEIJMII_00048	CDS	3048				hypothetical protein
+FLEIJMII_00049	CDS	723				hypothetical protein
+FLEIJMII_00050	CDS	3021	smc			Chromosome partition protein Smc
+FLEIJMII_00051	CDS	417				hypothetical protein
+FLEIJMII_00052	CDS	573				hypothetical protein
+FLEIJMII_00053	CDS	324				hypothetical protein
+FLEIJMII_00054	CDS	348				hypothetical protein
+FLEIJMII_00055	CDS	300				hypothetical protein
+FLEIJMII_00056	CDS	279				hypothetical protein
+FLEIJMII_00057	CDS	243				hypothetical protein
+FLEIJMII_00058	CDS	1173				hypothetical protein
+FLEIJMII_00059	CDS	585				hypothetical protein
+FLEIJMII_00060	CDS	1203				hypothetical protein
+FLEIJMII_00061	CDS	1731				hypothetical protein
+FLEIJMII_00062	CDS	393				hypothetical protein
+FLEIJMII_00063	CDS	327				hypothetical protein
+FLEIJMII_00064	CDS	291				hypothetical protein
+FLEIJMII_00065	CDS	543	xerC_2			Tyrosine recombinase XerC
+FLEIJMII_00066	CDS	402				hypothetical protein
+FLEIJMII_00067	CDS	339				hypothetical protein
+FLEIJMII_00068	CDS	165				hypothetical protein
+FLEIJMII_00069	CDS	165				hypothetical protein
+FLEIJMII_00070	CDS	180				hypothetical protein
+FLEIJMII_00071	CDS	396				hypothetical protein
+FLEIJMII_00072	CDS	495				hypothetical protein
+FLEIJMII_00073	CDS	402				hypothetical protein
+FLEIJMII_00074	CDS	246				hypothetical protein
+FLEIJMII_00075	CDS	537				hypothetical protein
+FLEIJMII_00076	CDS	282				hypothetical protein
+FLEIJMII_00077	CDS	228				hypothetical protein
+FLEIJMII_00078	CDS	462				hypothetical protein
+FLEIJMII_00079	CDS	771				hypothetical protein
+FLEIJMII_00080	CDS	159				hypothetical protein
+FLEIJMII_00081	CDS	402				hypothetical protein
+FLEIJMII_00082	CDS	264				hypothetical protein
+FLEIJMII_00083	CDS	1668				hypothetical protein
+FLEIJMII_00084	CDS	201				hypothetical protein
+FLEIJMII_00085	CDS	213				hypothetical protein
+FLEIJMII_00086	CDS	1818				hypothetical protein
+FLEIJMII_00087	CDS	162				hypothetical protein
+FLEIJMII_00088	CDS	345				hypothetical protein
+FLEIJMII_00089	CDS	147				hypothetical protein
+FLEIJMII_00090	CDS	165				hypothetical protein
+FLEIJMII_00091	CDS	426				hypothetical protein
+FLEIJMII_00092	CDS	762				hypothetical protein
+FLEIJMII_00093	CDS	333				hypothetical protein
+FLEIJMII_00094	CDS	516				hypothetical protein
+FLEIJMII_00095	CDS	282				hypothetical protein
+FLEIJMII_00096	CDS	312				hypothetical protein
+FLEIJMII_00097	CDS	327				hypothetical protein
+FLEIJMII_00098	CDS	348				hypothetical protein
+FLEIJMII_00099	CDS	558				hypothetical protein
+FLEIJMII_00100	CDS	372				hypothetical protein
+FLEIJMII_00101	CDS	330				hypothetical protein
+FLEIJMII_00102	CDS	2655				hypothetical protein
+FLEIJMII_00103	CDS	2214				hypothetical protein
+FLEIJMII_00104	CDS	1386				hypothetical protein
+FLEIJMII_00105	CDS	213				hypothetical protein
+FLEIJMII_00106	CDS	693				hypothetical protein
+FLEIJMII_00107	CDS	2247				hypothetical protein
+FLEIJMII_00108	CDS	405	yqbN			putative protein YqbN
+FLEIJMII_00109	CDS	465	xkdM			Phage-like element PBSX protein XkdM
+FLEIJMII_00110	CDS	1314				hypothetical protein
+FLEIJMII_00111	CDS	171				hypothetical protein
+FLEIJMII_00112	CDS	417				hypothetical protein
+FLEIJMII_00113	CDS	492				hypothetical protein
+FLEIJMII_00114	CDS	357				hypothetical protein
+FLEIJMII_00115	CDS	396				hypothetical protein
+FLEIJMII_00116	CDS	993				hypothetical protein
+FLEIJMII_00117	CDS	582				hypothetical protein
+FLEIJMII_00118	CDS	213				hypothetical protein
+FLEIJMII_00119	CDS	174				hypothetical protein
+FLEIJMII_00120	CDS	1629				hypothetical protein
+FLEIJMII_00121	CDS	1194				hypothetical protein
+FLEIJMII_00122	CDS	1143	xerC_3			Tyrosine recombinase XerC
+FLEIJMII_00123	CDS	510				hypothetical protein
+FLEIJMII_00124	CDS	192				hypothetical protein
+FLEIJMII_00125	CDS	261				hypothetical protein
+FLEIJMII_00126	CDS	192				hypothetical protein
+FLEIJMII_00127	CDS	258				hypothetical protein
+FLEIJMII_00128	CDS	510				hypothetical protein
+FLEIJMII_00129	CDS	315				hypothetical protein
+FLEIJMII_00130	CDS	462				hypothetical protein
+FLEIJMII_00131	CDS	231				hypothetical protein
+FLEIJMII_00132	CDS	348				hypothetical protein
+FLEIJMII_00133	CDS	837				hypothetical protein
+FLEIJMII_00134	CDS	885				hypothetical protein
+FLEIJMII_00135	CDS	858				hypothetical protein
+FLEIJMII_00136	CDS	378				hypothetical protein
+FLEIJMII_00137	CDS	462				hypothetical protein
+FLEIJMII_00138	CDS	1281				hypothetical protein
+FLEIJMII_00139	CDS	867				hypothetical protein
+FLEIJMII_00140	CDS	345				hypothetical protein
+FLEIJMII_00141	CDS	417				hypothetical protein
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+KGDBGAFG_00001	CDS	222				hypothetical protein
+KGDBGAFG_00002	CDS	363	fruA		COG1299	PTS system fructose-specific EIIABC component
+KGDBGAFG_00003	CDS	1209				hypothetical protein
+KGDBGAFG_00004	CDS	285	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+KGDBGAFG_00005	CDS	585	tdk	2.7.1.21	COG1435	Thymidine kinase
+KGDBGAFG_00006	CDS	864				hypothetical protein
+KGDBGAFG_00007	CDS	1326				hypothetical protein
+KGDBGAFG_00008	CDS	1947				hypothetical protein
+KGDBGAFG_00009	CDS	129	dpp7	3.4.14.-		Dipeptidyl-peptidase 7
+KGDBGAFG_00010	CDS	324				hypothetical protein
+KGDBGAFG_00011	CDS	228				hypothetical protein
+KGDBGAFG_00012	CDS	774				hypothetical protein
+KGDBGAFG_00013	CDS	822				hypothetical protein
+KGDBGAFG_00014	CDS	747				hypothetical protein
+KGDBGAFG_00015	CDS	486	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+KGDBGAFG_00016	CDS	228				hypothetical protein
+KGDBGAFG_00017	CDS	2334				hypothetical protein
+KGDBGAFG_00018	CDS	225				hypothetical protein
+KGDBGAFG_00019	CDS	618				hypothetical protein
+KGDBGAFG_00020	CDS	417				hypothetical protein
+KGDBGAFG_00021	CDS	279				hypothetical protein
+KGDBGAFG_00022	CDS	192				hypothetical protein
+KGDBGAFG_00023	CDS	252				hypothetical protein
+KGDBGAFG_00024	CDS	396				hypothetical protein
+KGDBGAFG_00025	CDS	144				hypothetical protein
+KGDBGAFG_00026	CDS	144				hypothetical protein
+KGDBGAFG_00027	CDS	450				hypothetical protein
+KGDBGAFG_00028	CDS	483				hypothetical protein
+KGDBGAFG_00029	CDS	399				hypothetical protein
+KGDBGAFG_00030	CDS	249				hypothetical protein
+KGDBGAFG_00031	CDS	342				hypothetical protein
+KGDBGAFG_00032	CDS	402				hypothetical protein
+KGDBGAFG_00033	CDS	198				hypothetical protein
+KGDBGAFG_00034	CDS	513				hypothetical protein
+KGDBGAFG_00035	CDS	207				hypothetical protein
+KGDBGAFG_00036	CDS	789				hypothetical protein
+KGDBGAFG_00037	CDS	276				hypothetical protein
+KGDBGAFG_00038	CDS	516				hypothetical protein
+KGDBGAFG_00039	CDS	144				hypothetical protein
+KGDBGAFG_00040	CDS	384				hypothetical protein
+KGDBGAFG_00041	CDS	165				hypothetical protein
+KGDBGAFG_00042	CDS	567	xerC			Tyrosine recombinase XerC
+KGDBGAFG_00043	CDS	273				hypothetical protein
+KGDBGAFG_00044	CDS	1077				hypothetical protein
+KGDBGAFG_00045	CDS	207				hypothetical protein
+KGDBGAFG_00046	CDS	672				hypothetical protein
+KGDBGAFG_00047	CDS	279				hypothetical protein
+KGDBGAFG_00048	CDS	477				hypothetical protein
+KGDBGAFG_00049	CDS	651				hypothetical protein
+KGDBGAFG_00050	CDS	219				hypothetical protein
+KGDBGAFG_00051	CDS	102				hypothetical protein
+KGDBGAFG_00052	CDS	390				hypothetical protein
+KGDBGAFG_00053	CDS	729	ydfK		COG1811	putative membrane protein YdfK
+KGDBGAFG_00054	CDS	594				hypothetical protein
+KGDBGAFG_00055	CDS	462				hypothetical protein
+KGDBGAFG_00056	CDS	477				hypothetical protein
+KGDBGAFG_00057	CDS	276				hypothetical protein
+KGDBGAFG_00058	CDS	177				hypothetical protein
+KGDBGAFG_00059	CDS	276				hypothetical protein
+KGDBGAFG_00060	CDS	309				hypothetical protein
+KGDBGAFG_00061	CDS	228				hypothetical protein
+KGDBGAFG_00062	CDS	240				hypothetical protein
+KGDBGAFG_00063	CDS	153				hypothetical protein
+KGDBGAFG_00064	CDS	195				hypothetical protein
+KGDBGAFG_00065	CDS	354				hypothetical protein
+KGDBGAFG_00066	CDS	135				hypothetical protein
+KGDBGAFG_00067	CDS	333				hypothetical protein
+KGDBGAFG_00068	CDS	189				autolysin [Streptococcus pneumoniae TIGR4]
+KGDBGAFG_00069	CDS	354				hypothetical protein
+KGDBGAFG_00070	CDS	348				hypothetical protein
+KGDBGAFG_00071	CDS	483				hypothetical protein
+KGDBGAFG_00072	CDS	207				hypothetical protein
+KGDBGAFG_00073	CDS	951				autolysin [Streptococcus pneumoniae TIGR4]
+KGDBGAFG_00074	CDS	330				hypothetical protein
+KGDBGAFG_00075	CDS	450				hypothetical protein
+KGDBGAFG_00076	CDS	315				hypothetical protein
+KGDBGAFG_00077	CDS	786				hypothetical protein
+KGDBGAFG_00078	CDS	1644				hypothetical protein
+KGDBGAFG_00079	CDS	210				hypothetical protein
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CEMPLLMO_00001	CDS	333				hypothetical protein
+CEMPLLMO_00002	CDS	381				hypothetical protein
+CEMPLLMO_00003	CDS	297				hypothetical protein
+CEMPLLMO_00004	CDS	531				hypothetical protein
+CEMPLLMO_00005	CDS	1083				hypothetical protein
+CEMPLLMO_00006	CDS	813				hypothetical protein
+CEMPLLMO_00007	CDS	735				hypothetical protein
+CEMPLLMO_00008	CDS	435				hypothetical protein
+CEMPLLMO_00009	CDS	255				hypothetical protein
+CEMPLLMO_00010	CDS	693				hypothetical protein
+CEMPLLMO_00011	CDS	1275	lysN	2.6.1.39	COG1167	2-aminoadipate transaminase
+CEMPLLMO_00012	CDS	972				[Enterococcus gallinarum] 
+CEMPLLMO_00013	CDS	153				hypothetical protein
+CEMPLLMO_00014	CDS	165				hypothetical protein
+CEMPLLMO_00015	CDS	267				hypothetical protein
+CEMPLLMO_00016	CDS	216				hypothetical protein
+CEMPLLMO_00017	CDS	285				hypothetical protein
+CEMPLLMO_00018	CDS	1359				hypothetical protein
+CEMPLLMO_00019	CDS	1521				hypothetical protein
+CEMPLLMO_00020	CDS	2004				hypothetical protein
+CEMPLLMO_00021	CDS	984				TonB-dependent receptor P3
+CEMPLLMO_00022	CDS	1116				hypothetical protein
+CEMPLLMO_00023	CDS	804				hypothetical protein
+CEMPLLMO_00024	CDS	846				hypothetical protein
+CEMPLLMO_00025	CDS	168				hypothetical protein
+CEMPLLMO_00026	CDS	603				hypothetical protein
+CEMPLLMO_00027	CDS	366				hypothetical protein
+CEMPLLMO_00028	CDS	1236	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+CEMPLLMO_00029	CDS	339	rbfA		COG0858	30S ribosome-binding factor
+CEMPLLMO_00030	CDS	687	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+CEMPLLMO_00031	CDS	1446	pyk	2.7.1.40		Pyruvate kinase
+CEMPLLMO_00032	CDS	423	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+CEMPLLMO_00033	CDS	897	xerD		COG4974	Tyrosine recombinase XerD
+CEMPLLMO_00034	CDS	537	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+CEMPLLMO_00035	CDS	420	sufE		COG2166	Cysteine desulfuration protein SufE
+CEMPLLMO_00036	CDS	984				hypothetical protein
+CEMPLLMO_00037	CDS	1749	pyrG	6.3.4.2		CTP synthase
+CEMPLLMO_00038	CDS	288				hypothetical protein
+CEMPLLMO_00039	CDS	540	asnC		COG1522	Regulatory protein AsnC
+CEMPLLMO_00040	CDS	1308	nhaC		COG1757	Na(+)/H(+) antiporter NhaC
+CEMPLLMO_00041	CDS	651		3.-.-.-		putative protein
+CEMPLLMO_00042	CDS	615				hypothetical protein
+CEMPLLMO_00043	CDS	291				hypothetical protein
+CEMPLLMO_00044	CDS	237				hypothetical protein
+CEMPLLMO_00045	CDS	264				hypothetical protein
+CEMPLLMO_00046	CDS	276				hypothetical protein
+CEMPLLMO_00047	CDS	453				hypothetical protein
+CEMPLLMO_00048	CDS	138				hypothetical protein
+CEMPLLMO_00049	CDS	1161				hypothetical protein
+CEMPLLMO_00050	CDS	1203				hypothetical protein
+CEMPLLMO_00051	CDS	1611				hypothetical protein
+CEMPLLMO_00052	CDS	1143				hypothetical protein
+CEMPLLMO_00053	CDS	108				hypothetical protein
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+AEONMMOB_00001	CDS	162				hypothetical protein
+AEONMMOB_00002	CDS	474				hypothetical protein
+AEONMMOB_00003	CDS	207				hypothetical protein
+AEONMMOB_00004	CDS	234				hypothetical protein

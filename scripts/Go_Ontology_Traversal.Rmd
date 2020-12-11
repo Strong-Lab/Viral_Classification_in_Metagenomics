@@ -1,0 +1,163 @@
+---
+title: "Go_Ontology"
+author: "Cody Glickman"
+date: "11/24/2020"
+output: html_document
+---
+
+
+```{r}
+#BiocManager::install("GO.db")
+library(GO.db)
+
+control = read.csv("../data/Viral_Contigs_in_CF_Metagenome/Gene_Ontology/control_genes_ontology.csv", stringsAsFactors = FALSE)
+cf = read.csv("../data/Viral_Contigs_in_CF_Metagenome/Gene_Ontology/cf_genes_ontology.csv", stringsAsFactors = FALSE)
+
+
+#if parent term is in list add GO count else get parents of parent term
+top_levels = c("biological_process", "metabolic process","metabolic_process", "cellular process", 'cellular_component', "binding", 'molecular_function', 'cell', 'cell part')
+
+Resb <- list()
+Resc <- list()
+Resm <- list()
+name <- function(term) {
+  z = as.list(GOTERM[term])
+  command = paste("z$`", term, "`@Term", sep = '')
+  q = eval(parse(text=command))
+  return(q)
+}
+AddItemNaiveb <- function(item){
+    .GlobalEnv$Resb[[length(.GlobalEnv$Resb)+1]] <- item
+}
+
+AddItemNaivec <- function(item){
+    .GlobalEnv$Resc[[length(.GlobalEnv$Resc)+1]] <- item
+}
+
+AddItemNaivem <- function(item){
+    .GlobalEnv$Resm[[length(.GlobalEnv$Resm)+1]] <- item
+}
+getparents <- function(term){
+  try(expr = {
+    ids = as.list(GOCCPARENTS[term])
+    flag = 1
+  }, silent = TRUE)
+  try(expr = {
+    ids = as.list(GOBPPARENTS[term])
+    flag = 2
+  }, silent = TRUE)
+  try(expr = {
+    ids = as.list(GOMFPARENTS[term])
+    flag = 3
+  }, silent = TRUE)
+  command = paste("ids$`", term, "`", sep = '')
+  q = eval(parse(text=command))
+  parents_names = lapply(q, toString)
+  for (item in parents_names){
+    if (name(item) %in% top_levels){
+      if (flag == 1){AddItemNaivec(name(term))}
+      if (flag == 2){AddItemNaiveb(name(term))}
+      if (flag == 3){AddItemNaivem(name(term))}
+      }
+    else{
+      getparents(item)
+    }
+    
+  }
+}
+
+lapply(cf$X, getparents)
+```
+
+```{r}
+cs = unlist(Resc)
+cs.df <- do.call("rbind", lapply(cs, as.data.frame))
+write.csv(cs.df, file = "../data/Viral_Contigs_in_CF_Metagenome/Gene_Ontology/cf_ontology_R_cc.csv",row.names = FALSE)
+
+
+cs = unlist(Resb)
+cs.df <- do.call("rbind", lapply(cs, as.data.frame))
+write.csv(cs.df, file = "../data/Viral_Contigs_in_CF_Metagenome/Gene_Ontology/cf_ontology_R_bp.csv",row.names = FALSE)
+
+
+cs = unlist(Resm)
+cs.df <- do.call("rbind", lapply(cs, as.data.frame))
+write.csv(cs.df, file = "../data/Viral_Contigs_in_CF_Metagenome/Gene_Ontology/cf_ontology_R_mf.csv",row.names = FALSE)
+```
+
+
+
+```{r}
+top_levels = c("biological_process", "metabolic process","metabolic_process", "cellular process", 'cellular_component', "binding", 'molecular_function', 'cell', 'cell part')
+
+Resb <- list()
+Resc <- list()
+Resm <- list()
+name <- function(term) {
+  z = as.list(GOTERM[term])
+  command = paste("z$`", term, "`@Term", sep = '')
+  q = eval(parse(text=command))
+  return(q)
+}
+AddItemNaiveb <- function(item){
+    .GlobalEnv$Resb[[length(.GlobalEnv$Resb)+1]] <- item
+}
+
+AddItemNaivec <- function(item){
+    .GlobalEnv$Resc[[length(.GlobalEnv$Resc)+1]] <- item
+}
+
+AddItemNaivem <- function(item){
+    .GlobalEnv$Resm[[length(.GlobalEnv$Resm)+1]] <- item
+}
+getparents <- function(term){
+  try(expr = {
+    ids = as.list(GOCCPARENTS[term])
+    flag = 1
+  }, silent = TRUE)
+  try(expr = {
+    ids = as.list(GOBPPARENTS[term])
+    flag = 2
+  }, silent = TRUE)
+  try(expr = {
+    ids = as.list(GOMFPARENTS[term])
+    flag = 3
+  }, silent = TRUE)
+  command = paste("ids$`", term, "`", sep = '')
+  q = eval(parse(text=command))
+  parents_names = lapply(q, toString)
+  for (item in parents_names){
+    if (name(item) %in% top_levels){
+      if (flag == 1){AddItemNaivec(name(term))}
+      if (flag == 2){AddItemNaiveb(name(term))}
+      if (flag == 3){AddItemNaivem(name(term))}
+      }
+    else{
+      getparents(item)
+    }
+    
+  }
+}
+
+## Takes ~20mins
+lapply(control$X, getparents)
+```
+
+
+```{r}
+cs = unlist(Resc)
+cs.df <- do.call("rbind", lapply(cs, as.data.frame))
+write.csv(cs.df, file = "../data/Viral_Contigs_in_CF_Metagenome/Gene_Ontology/control_ontology_R_cc.csv",row.names = FALSE)
+
+
+cs = unlist(Resb)
+cs.df <- do.call("rbind", lapply(cs, as.data.frame))
+write.csv(cs.df, file = "../data/Viral_Contigs_in_CF_Metagenome/Gene_Ontology/control_ontology_R_bp.csv",row.names = FALSE)
+
+
+cs = unlist(Resm)
+cs.df <- do.call("rbind", lapply(cs, as.data.frame))
+write.csv(cs.df, file = "../data/Viral_Contigs_in_CF_Metagenome/Gene_Ontology/control_ontology_R_mf.csv",row.names = FALSE)
+```
+
+

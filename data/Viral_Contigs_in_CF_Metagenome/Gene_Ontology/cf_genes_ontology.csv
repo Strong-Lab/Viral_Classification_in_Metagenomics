@@ -1,0 +1,29 @@
+,Name,Ontology,Sublevel,0
+GO:0000725,recombinational repair,biological_process,DNA recombination,1
+GO:0003677,DNA binding,molecular_function,nucleic acid binding,7
+GO:0003697,single-stranded DNA binding,molecular_function,DNA binding,5
+GO:0005515,protein binding,molecular_function,binding,24
+GO:0005737,cytoplasm,cellular_component,cellular anatomical entity,6
+GO:0005829,cytosol,cellular_component,cellular anatomical entity,1
+GO:0006260,DNA replication,biological_process,cellular macromolecule biosynthetic process,3
+GO:0006276,plasmid maintenance,biological_process,cellular process,3
+GO:0006281,DNA repair,biological_process,cellular response to DNA damage stimulus,2
+GO:0006298,mismatch repair,biological_process,DNA repair,1
+GO:0006310,DNA recombination,biological_process,DNA metabolic process,8
+GO:0006313,"transposition, DNA-mediated",biological_process,transposition,2
+GO:0006974,cellular response to DNA damage stimulus,biological_process,cellular response to stress,1
+GO:0007059,chromosome segregation,biological_process,cellular process,5
+GO:0008047,enzyme activator activity,molecular_function,enzyme regulator activity,1
+GO:0009009,site-specific recombinase activity,molecular_function,recombinase activity,5
+GO:0009037,tyrosine-based site-specific recombinase activity,molecular_function,site-specific recombinase activity,4
+GO:0009295,nucleoid,cellular_component,cellular anatomical entity,1
+GO:0009314,response to radiation,biological_process,response to abiotic stimulus,1
+GO:0009432,SOS response,biological_process,cellular response to extracellular stimulus,1
+GO:0015074,DNA integration,biological_process,DNA metabolic process,4
+GO:0042150,plasmid recombination,biological_process,DNA recombination,1
+GO:0042802,identical protein binding,molecular_function,protein binding,2
+GO:0043085,positive regulation of catalytic activity,biological_process,regulation of catalytic activity,1
+GO:0048476,Holliday junction resolvase complex,cellular_component,endodeoxyribonuclease complex,5
+GO:0051096,positive regulation of helicase activity,biological_process,regulation of helicase activity,1
+GO:0051301,cell division,biological_process,cellular process,3
+GO:0071139,resolution of recombination intermediates,biological_process,DNA metabolic process,2
