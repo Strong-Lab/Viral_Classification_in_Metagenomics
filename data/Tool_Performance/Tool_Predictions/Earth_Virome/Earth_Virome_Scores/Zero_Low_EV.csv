@@ -1,0 +1,5 @@
+Prophage Category,Precision,Recall,F1 Score,Simulation,Complexity
+Prophage_Bacteria_Greater_1,0.00636604774535809,1.0,0.012651555086979443,Earth,Virome/Zero
+Prophage_Virus_Greater_1,0.016976127320954906,1.0,0.03338549817423056,Earth,Virome/Zero
+Prophage_Bacteria_Full,0.00636604774535809,1.0,0.012651555086979443,Earth,Virome/Zero
+Prophage_Virus_Full,0.016976127320954906,1.0,0.03338549817423056,Earth,Virome/Zero

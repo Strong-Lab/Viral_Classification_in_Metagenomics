@@ -1,0 +1,3 @@
+Prophage Category,Precision,Recall,F1 Score,Simulation,Complexity,Tool,Parameter
+Prophage_Bacteria,0.7085714285714285,0.5918854415274463,0.6449934980494147,zero,medium,VirSorter,NA
+Prophage_Viruses,0.8228571428571428,0.11783960720130933,0.2061560486757337,zero,medium,VirSorter,NA

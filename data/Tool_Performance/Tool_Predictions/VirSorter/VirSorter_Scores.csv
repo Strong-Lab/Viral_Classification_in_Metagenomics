@@ -1,0 +1,25 @@
+Prophage Category,Precision,Recall,F1 Score,Simulation,Complexity,Tool,Parameter
+Prophage_Bacteria,0.707017544,0.713274336,0.710132159,uniform,medium,VirSorter,NA
+Prophage_Viruses,0.831578947,0.135699971,0.233325129,uniform,medium,VirSorter,NA
+Prophage_Bacteria,0.933333333,0.538461538,0.682926829,exponential,low,VirSorter,NA
+Prophage_Viruses,0.933333333,0.175,0.294736842,exponential,low,VirSorter,NA
+Prophage_Bacteria,0.769230769,0.833333333,0.8,zero,low,VirSorter,NA
+Prophage_Viruses,0.923076923,0.155844156,0.266666667,zero,low,VirSorter,NA
+Prophage_Bacteria,0.657971014,0.405357143,0.501657459,exponential,medium,VirSorter,NA
+Prophage_Viruses,0.794202899,0.11580727,0.202139432,exponential,medium,VirSorter,NA
+Prophage_Bacteria,0.685678074,0.321640904,0.437879401,zero,high,VirSorter,NA
+Prophage_Viruses,0.878326996,0.02049447,0.040054331,zero,high,VirSorter,NA
+Prophage_Bacteria,0.811931244,0.295329165,0.433117584,lognormal,high,VirSorter,NA
+Prophage_Viruses,0.906976744,0.027069439,0.052569888,lognormal,high,VirSorter,NA
+Prophage_Bacteria,0.733333333,1,0.846153846,lognormal,low,VirSorter,NA
+Prophage_Viruses,0.866666667,0.196969697,0.320987654,lognormal,low,VirSorter,NA
+Prophage_Bacteria,0.708571429,0.591885442,0.644993498,zero,medium,VirSorter,NA
+Prophage_Viruses,0.822857143,0.117839607,0.206156049,zero,medium,VirSorter,NA
+Prophage_Bacteria,0.748344371,0.508245877,0.605357143,lognormal,medium,VirSorter,NA
+Prophage_Viruses,0.849889625,0.116138763,0.204352442,lognormal,medium,VirSorter,NA
+Prophage_Bacteria,0.654791155,0.343870968,0.450930626,uniform,high,VirSorter,NA
+Prophage_Viruses,0.786240786,0.022579336,0.043898006,uniform,high,VirSorter,NA
+Prophage_Bacteria,0.632092199,0.314929329,0.420400943,exponential,high,VirSorter,NA
+Prophage_Viruses,0.758865248,0.024561706,0.047583312,exponential,high,VirSorter,NA
+Prophage_Bacteria,0.833333333,0.576923077,0.681818182,uniform,low,VirSorter,NA
+Prophage_Viruses,0.944444444,0.173469388,0.293103448,uniform,low,VirSorter,NA

@@ -1,0 +1,15 @@
+Prophage Category,Precision,Recall,F1 Score,Simulation,Complexity,Tool,Parameter
+Prophage_Viruses,0.4169,0.0673,0.116,Exponential,High,VirFinder,0.05
+Prophage_Bacteria,0.2896,0.72,0.413,Exponential,High,VirFinder,0.05
+Prophage_Viruses,0.3426,0.2033,0.2552,Exponential,Medium,VirFinder,0.05
+Prophage_Bacteria,0.302,0.7571,0.4318,Exponential,Medium,VirFinder,0.05
+Prophage_Viruses,0.4881,0.0802,0.1377,Lognormal,High,VirFinder,0.05
+Prophage_Bacteria,0.3675,0.7356,0.4901,Lognormal,High,VirFinder,0.05
+Prophage_Viruses,0.3594,0.197,0.2545,Lognormal,Medium,VirFinder,0.05
+Prophage_Bacteria,0.2955,0.8051,0.4324,Lognormal,Medium,VirFinder,0.05
+Prophage_Viruses,0.3689,0.0621,0.1063,Uniform,High,VirFinder,0.05
+Prophage_Bacteria,0.2485,0.7648,0.3752,Uniform,High,VirFinder,0.05
+Prophage_Viruses,0.4416,0.0582,0.1029,Zero,High,VirFinder,0.05
+Prophage_Bacteria,0.277,0.7342,0.4022,Zero,High,VirFinder,0.05
+Prophage_Viruses,0.376,0.1768,0.2405,Zero,Medium,VirFinder,0.05
+Prophage_Bacteria,0.3255,0.8926,0.477,Zero,Medium,VirFinder,0.05
